@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="125c4bf2-dd71-4134-9c36-df53c83a4a39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB4xLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/test_lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/test_task3.py" afterDir="false" />
-    </list>
+    <list default="true" id="125c4bf2-dd71-4134-9c36-df53c83a4a39" name="Changes" comment="Oct15 task added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729675580665</updated>
     </task>
+    <task id="LOCAL-00001" summary="Oct15 task added">
+      <option name="closed" value="true" />
+      <created>1729755196219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729755196219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oct15 task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct15 task added" />
   </component>
 </project>
